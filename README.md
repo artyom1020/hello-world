@@ -1,7 +1,6 @@
 # hello-world
 I create Biockchain
 
-class  Blockchain ( объект ):
     def  __init__ ( self ):
         self .chain = []
         self .current_transactions = []
